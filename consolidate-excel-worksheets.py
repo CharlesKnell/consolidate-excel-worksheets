@@ -42,7 +42,7 @@ for file in file_list:
         # append the individual file data frame to the consolidated data frame
         df = pd.concat([df, df1], ignore_index=False)
 
-# transfer final output to an Excel (xlsx) file on the output path
+# transfer final output to an Excel (.xlsx) file on the output path
 # to add a 1st column containing the original row indexes, change the following to index=True
 df.to_excel(output_file_path + "Consolidated_file.xlsx", index=False)
 

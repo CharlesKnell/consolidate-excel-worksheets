@@ -8,7 +8,7 @@ Credits: Original program by Gaurav Siyal
 01 Jul 24 - Create the output folder if it doesn't exist.
 
 ## Description
-This python program will consolidate/merge a large number of .xlsx Excel files, limited only by your computer's memory.
+This python program will consolidate/merge a large number of Excel (.xlsx) files, limited only by your computer's memory.
 
 ## Usage
 1. python must be installed. See (https://python.org)
