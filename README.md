@@ -4,6 +4,7 @@ Credits: Original program by Gaurav Siyal
 (https://www.makeuseof.com/consolidate-excel-workbooks-python/)
 
 30 Jun 24 - Updated for Python 3.12.3, added usage instructions, a few helpful changes, and updated comments.
+
 01 Jul 24 - Create the output folder if it doesn't exist.
 
 ## Description
