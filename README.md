@@ -3,7 +3,10 @@
 Credits: Original program by Gaurav Siyal 
 (https://www.makeuseof.com/consolidate-excel-workbooks-python/)
 
-Updated for Python 3.12.3, added usage instructions, a few helpful changes, and updated comments
+30 Jun 24 - Updated for Python 3.12.3, added usage instructions, a few helpful changes, and updated comments.
+
+## Description
+This python program will consolidate/merge a large number of .xlsx Excel files, limited only by your computer's memory.
 
 ## Usage
 1. Python must be installed. See (https://python.org)
