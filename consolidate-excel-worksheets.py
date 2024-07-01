@@ -14,7 +14,6 @@
 #            different compared to the input_file_path, for repeatable results.
 #         5. Execute this program at a Windows Command Prompt using "python consolidate-excel-worksheets.py"
 
-
 import pandas as pd
 import os
 
