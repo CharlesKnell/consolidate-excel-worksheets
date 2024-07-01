@@ -1,3 +1,5 @@
+# consolidate-excel-worksheets.py
+
 # tag=charlesknell Version 2
 # Credits: article by Gaurav Siyal https://www.makeuseof.com/consolidate-excel-workbooks-python/
 # Updated for Python 3.12.3, added usage instructions, a few helpful changes, and updated comments
