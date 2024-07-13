@@ -1,0 +1,4 @@
+*.xlsx
+.idea/
+.venv/
+output/
